@@ -1,0 +1,20 @@
+body {
+	display: flex;
+	flex-direction: row;
+	box-sizing: border-box;
+	font-size: 5vh;
+}
+
+.box {
+	display: inline-block;
+	width: 50vh;
+	height: 50vh;
+	background: red;
+	color: yellow;
+	padding: 1vh;
+	margin: 1vh;
+}
+#two {
+	background: black;
+	color: white;
+}
